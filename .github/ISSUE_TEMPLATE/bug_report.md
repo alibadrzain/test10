@@ -2,7 +2,7 @@
 name: Bug report
 about: Create a report to help us improve
 labels: bug, infra-tooling-stream
-Projects: Simorgh
+Projects: alibadrzain/1
 ---
 
 **Describe the bug**
