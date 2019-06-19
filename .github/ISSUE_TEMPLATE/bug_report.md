@@ -1,8 +1,8 @@
 ---
 name: Bug report
 about: Create a report to help us improve
+projects: alibadrzain/1
 labels: bug, infra-tooling-stream
-project: alibadrzain/1
 ---
 
 **Describe the bug**
