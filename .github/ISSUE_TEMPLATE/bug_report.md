@@ -2,6 +2,7 @@
 name: Bug report
 about: Create a report to help us improve
 labels: bug, infra-tooling-stream
+project: alibadrzain/1
 ---
 
 **Describe the bug**
@@ -23,5 +24,3 @@ If applicable, add screenshots to help explain your problem.
 
 **Additional context**
 Add any other context about the problem here.
-
-Projects: alibadrzain/1
